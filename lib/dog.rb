@@ -1,4 +1,4 @@
-class Dog < AciveRecord:Base
+class Dog < AciveRecord::Base
   attr_accessor :name, :breed
 
   def initialize (name:, breed:)
