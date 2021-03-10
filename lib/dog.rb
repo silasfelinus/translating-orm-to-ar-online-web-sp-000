@@ -5,6 +5,6 @@ class Dog < AciveRecord:Base
     @name = name
     @breed = breed
   end
-  
-    
+
+
 end
